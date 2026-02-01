@@ -1,3 +1,4 @@
+<!-- hello world -->
 # FII-BachelorThesis
 <p align="center">
   <img src="https://github.com/FrentescuCezar/FIIPractic_Bytex/blob/main/Poketex/03-frontend/poketex/src/Images/PublicImages/Pokytex-2.png" width=500 title="Poketex">
@@ -129,4 +130,3 @@ _PostgreSQL_ [PostgreSQL official website](https://www.postgresql.org/ ) <br />
 - Automatic1111 for the Stable Diffusion API
 - PlexPt for the ChatGPT connexions
 - Okta for providing user authentication and management.
-
